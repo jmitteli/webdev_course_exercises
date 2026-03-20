@@ -1,0 +1,15 @@
+.quote{
+    font-style: italic;
+    color: #666;
+}
+
+.subscript{
+    vertical-align: sub;
+}
+.superscript{
+    vertical-align: super;
+}
+
+.quote_bold{
+    font-weight: bold;
+}
