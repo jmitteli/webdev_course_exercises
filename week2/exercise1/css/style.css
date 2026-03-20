@@ -1,0 +1,27 @@
+html{
+    background-color: aqua;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    width: 90%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 1em;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
+}
+
+a:hover{
+    font-weight: bold;
+    color: brown;
+}
